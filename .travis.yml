@@ -1,4 +1,4 @@
 language: python
 python:
   - "3.7-dev"
-script: pytest
+script: pytest /hello-world/hello_world_test.py
